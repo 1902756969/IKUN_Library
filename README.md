@@ -51,4 +51,4 @@
 
 图书ISBN和读者账号会进行验证
 
-![image-20220918103839505](C:/Users/axing/AppData/Roaming/Typora/typora-user-images/image-20220918103839505.png)
+![image-20220918103839505](https://img1.imgtp.com/2022/09/18/QDF7wttw.png)
