@@ -21,34 +21,29 @@
 
 #### 项目预览
 
-![image-20220918103607099](https://img1.imgtp.com/2022/09/18/NvRr0Iud.png)
+
 
 账号:admin 密码:123456
 
+![image-20230120171058154](https://i0.hdslb.com/bfs/album/55875f67b692a5c0337395d65bf5dc9f38a01c19.png)
+
 图书页面
 
-![image-20220918103702301](https://img1.imgtp.com/2022/09/18/EUBeQOvB.png)
+![image-20230120171127088](https://i0.hdslb.com/bfs/album/2560a9eee2070cd862b699902a8ca36c422bb274.png)
+
+
 
 新增页面
 
-![image-20220918103721265](https://img1.imgtp.com/2022/09/18/W4j6LmGp.png)
+![image-20230120171139839](https://i0.hdslb.com/bfs/album/b7eb3eeed9a251504fda34ac365c82ce3c2813c1.png)
 
 
 
 读者管理
 
-![](https://img1.imgtp.com/2022/09/18/S7Y2II7L.png)
+![image-20230120171238178](https://i0.hdslb.com/bfs/album/612d0960541da3a7acb3bc3547d497db1a17e8c9.png)
+
+借阅管理![image-20230120172045830](https://i0.hdslb.com/bfs/album/758bc146e0c5faad0cf94733800d719e0c086f15.png)
 
 
 
-![image-20220918103756889](https://img1.imgtp.com/2022/09/18/U2tWyE8r.png)
-
-
-
-借阅管理![image-20220918103813979](https://img1.imgtp.com/2022/09/18/Rfz88jJY.png)
-
-
-
-图书ISBN和读者账号会进行验证
-
-![image-20220918103839505](https://img1.imgtp.com/2022/09/18/QDF7wttw.png)
