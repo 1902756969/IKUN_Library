@@ -43,7 +43,7 @@
 
 #### 借阅管理
 
-![image-20230506132614681](C:\Users\axing\AppData\Roaming\Typora\typora-user-images\image-20230506132614681.png)
+![image](https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/image.65bq21dep6g0.webp)
 
 
 
