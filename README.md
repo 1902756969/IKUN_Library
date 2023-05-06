@@ -39,7 +39,7 @@
 
 #### 读者管理
 
-![image-20230506132559486](C:\Users\axing\AppData\Roaming\Typora\typora-user-images\image-20230506132559486.png)
+![image-20230506132559486](https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/image-20230506132559486.7149p46f91k0.webp)
 
 #### 借阅管理
 
