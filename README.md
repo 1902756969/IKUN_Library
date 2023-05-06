@@ -1,19 +1,10 @@
 # 📝项目介绍
 
-项目工具:  IntelliJ IDEA 2023.2.2+Navicat Premium 16+ElementUI
+#### 项目技术栈👏👏
 
-图书后台管理系统，采用SpringBoot+Mybatius+Thymeleaf，页面使用Element框架，使用RESTful API风格编写接口。
+图书后台管理系统，采用SpringBoot+Mybatius，页面使用Element框架，使用RESTful API风格编写接口。
 
 数据库使用mysql
-
-#### 已实现功能
-
-- [x] 基本增删改查,联表查询
-- [x] 拦截器登录验证
-
-
-
-#### 项目技术栈
 
 - Spring Boot
 
@@ -22,6 +13,21 @@
 - MySQL
 
 - ElementUI
+
+#### 项目工具:  
+
+🤞🤞
+
+IntelliJ IDEA 2023.2.2+Navicat Premium 16+ElementUI
+
+#### 已实现功能
+
+- [x] 基本增删改查,联表查询
+- [x] 拦截器登录验证
+
+
+
+- 
 
   
 
