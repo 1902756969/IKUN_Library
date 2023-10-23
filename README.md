@@ -39,15 +39,15 @@ IntelliJ IDEA 2023.2.2+Navicat Premium 16+ElementUI
 
 #### 登录页面
 
-![image](https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/image.6ipb7d6m2wc0.webp)
+![image](https://cdn.jsdelivr.net/gh/1902756969/picgo_imgs@master/image.18lrmxt93a0w.webp)
 
 #### 图书管理
 
-![image](https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/image.65bq21dep6g0.webp)
+![image](https://cdn.jsdelivr.net/gh/1902756969/picgo_imgs@master/image.xdkmk5gniv4.webp)
 
 #### 读者管理
 
-![image-20230506132559486](https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/image-20230506132559486.7149p46f91k0.webp)
+![image](https://cdn.jsdelivr.net/gh/1902756969/picgo_imgs@master/image.5j52ysin7ls0.webp)
 
 #### 借阅管理
 
@@ -61,7 +61,9 @@ IntelliJ IDEA 2023.2.2+Navicat Premium 16+ElementUI
 
 ## ✔数据库设计
 
-![image](https://cdn.staticaly.com/gh/1902756969/picgo_imgs@master/image.11bnmnw0lyts.webp)
+![image](https://cdn.jsdelivr.net/gh/1902756969/picgo_imgs@master/image.6w3zcl1ng9c0.webp)
+
+
 
 
 
